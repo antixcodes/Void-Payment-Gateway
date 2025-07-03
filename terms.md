@@ -72,10 +72,10 @@ This document governs your use of the Shadow Shop Discord platform (the “Platf
 All communications related to these Terms should be directed to:
 
 **Grievance Officer**  
-> Name: *[Insert Name]*  
-> Designation: *[Insert Designation]*  
-> Company: Shadow Shop, Laxmi Nagar, Jodhpur, India  
-> Phone: *[Insert Contact Number]*  
+> Name: Santosh Kanwar
+> Designation: Manager
+> Company: Shadow Shop, Laxmi Nagar, Jodhpur, India
+> Phone: 8112257670
 > Hours: Monday – Friday (9:00 – 18:00)
 
 ---
