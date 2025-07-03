@@ -20,10 +20,10 @@ By purchasing from our platform, you acknowledge and agree that you are not enti
 If you have any questions or concerns regarding this policy, please contact our Grievance Officer:
 
 **Grievance Officer**  
-> Name: *[Insert Name]*  
-> Designation: *[Insert Designation]*  
+> Name: Santosh Kanwar
+> Designation: *Manager
 > Company: Shadow Shop, Laxmi Nagar, Jodhpur, India  
-> Phone: *[Insert Contact Number]*  
+> Phone: *8112257670
 > Hours: Monday – Friday (9:00 – 18:00)
 
 ---
